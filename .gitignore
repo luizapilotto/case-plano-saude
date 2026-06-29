@@ -1,0 +1,8 @@
+# Ignorar arquivos temporários que o Excel cria sozinho quando está aberto
+~$*.xlsx
+
+# Ignorar ambientes virtuais do Python (caso decida criar um)
+.venv/
+venv/
+env/
+__pycache__/
