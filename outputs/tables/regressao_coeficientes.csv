@@ -1,0 +1,5 @@
+﻿Variável / Termo;Coeficiente (Peso);Significado Prático
+Intercepto (Base);-1167.6830425187807;Custo base
+Idade (por ano a mais);25.954749155186242;Acréscimo no custo por unidade da variável
+Fumante (Sim);2382.3684495308803;Acréscimo no custo por unidade da variável
+IMC (por ponto a mais);32.261513281908265;Acréscimo no custo por unidade da variável
